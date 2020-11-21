@@ -36,10 +36,13 @@
     "category": {
       "type": "enumeration",
       "enum": [
-        "gatsby",
-        "javascript",
-        "react",
-        "html"
+        "life",
+        "reflection",
+        "entrepreneurship",
+        "nus",
+        "software",
+        "internship",
+        "gatsby"
       ],
       "required": true,
       "default": "gatsby"
