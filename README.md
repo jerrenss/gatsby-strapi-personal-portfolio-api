@@ -1,14 +1,5 @@
-# Strapi application
+## Personal Portfolio with Gatsby and Strapi
 
-Since the project was recorded there is a newer version of
-strapi-provider-upload-claudinary
+Credits to [John Smilga](https://www.johnsmilga.com/), and his tutorial which can be found at [https://www.youtube.com/watch?v=Oc_ITwxiG-Y](https://www.youtube.com/watch?v=Oc_ITwxiG-Y). Managed to learn a lot about the Gatsby JS and Strapi JS framework. Highly recommended to those looking to create a clean, attractive portfolio site!
 
-Please make sure you use the version that is compatible with this project (link below).
-
-https://www.npmjs.com/package/strapi-provider-upload-cloudinary/v/3.0.0
-
-Also, please follow setup instructions for this version (shown in the video).
-
-![strapi claudinary setup](./claudinary.png)
-
-In order to access claudinary keys, please follow the video.
+My personal portfolio site is live and available at [https://gerrenseow.netlify.app/](https://gerrenseow.netlify.app/).
